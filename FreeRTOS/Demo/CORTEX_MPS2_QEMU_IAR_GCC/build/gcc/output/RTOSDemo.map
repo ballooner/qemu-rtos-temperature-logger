@@ -6866,218 +6866,6 @@ Discarded input sections
  .debug_macro   0x00000000       0xc3 ./output/main_blinky.o
  .debug_macro   0x00000000      0x14f ./output/main_blinky.o
  .debug_macro   0x00000000       0x98 ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .group         0x00000000        0xc ./output/main_full.o
- .text          0x00000000        0x0 ./output/main_full.o
- .data          0x00000000        0x0 ./output/main_full.o
- .bss           0x00000000        0x0 ./output/main_full.o
- .rodata.prvCheckTask.str1.1
-                0x00000000      0x50e ./output/main_full.o
- .text.prvCheckTask
-                0x00000000      0x200 ./output/main_full.o
- .text.prvRegTestTaskEntry2
-                0x00000000       0x1c ./output/main_full.o
- .text.prvRegTestTaskEntry1
-                0x00000000       0x1c ./output/main_full.o
- .rodata.main_full.str1.1
-                0x00000000       0x10 ./output/main_full.o
- .text.main_full
-                0x00000000       0xcc ./output/main_full.o
- .text.vFullDemoTickHookFunction
-                0x00000000       0x2e ./output/main_full.o
- .rodata.str1.1
-                0x00000000        0x5 ./output/main_full.o
- .bss.ulRegTest1LoopCounter
-                0x00000000        0x4 ./output/main_full.o
- .bss.ulRegTest2LoopCounter
-                0x00000000        0x4 ./output/main_full.o
- .data.pcMessage.0
-                0x00000000        0x4 ./output/main_full.o
- .debug_info    0x00000000      0x8e4 ./output/main_full.o
- .debug_abbrev  0x00000000      0x1b0 ./output/main_full.o
- .debug_loc     0x00000000       0xb5 ./output/main_full.o
- .debug_aranges
-                0x00000000       0x40 ./output/main_full.o
- .debug_ranges  0x00000000       0x30 ./output/main_full.o
- .debug_macro   0x00000000      0x5af ./output/main_full.o
- .debug_macro   0x00000000      0xa60 ./output/main_full.o
- .debug_macro   0x00000000       0x22 ./output/main_full.o
- .debug_macro   0x00000000       0x5e ./output/main_full.o
- .debug_macro   0x00000000       0x18 ./output/main_full.o
- .debug_macro   0x00000000       0x94 ./output/main_full.o
- .debug_macro   0x00000000       0x35 ./output/main_full.o
- .debug_macro   0x00000000       0x34 ./output/main_full.o
- .debug_macro   0x00000000       0x16 ./output/main_full.o
- .debug_macro   0x00000000       0x57 ./output/main_full.o
- .debug_macro   0x00000000       0x97 ./output/main_full.o
- .debug_macro   0x00000000      0x341 ./output/main_full.o
- .debug_macro   0x00000000       0xfd ./output/main_full.o
- .debug_macro   0x00000000       0x10 ./output/main_full.o
- .debug_macro   0x00000000       0x16 ./output/main_full.o
- .debug_macro   0x00000000       0x43 ./output/main_full.o
- .debug_macro   0x00000000       0x34 ./output/main_full.o
- .debug_macro   0x00000000       0x10 ./output/main_full.o
- .debug_macro   0x00000000       0x58 ./output/main_full.o
- .debug_macro   0x00000000      0x182 ./output/main_full.o
- .debug_macro   0x00000000       0x10 ./output/main_full.o
- .debug_macro   0x00000000       0x6a ./output/main_full.o
- .debug_macro   0x00000000       0x1c ./output/main_full.o
- .debug_macro   0x00000000       0x52 ./output/main_full.o
- .debug_macro   0x00000000       0x22 ./output/main_full.o
- .debug_macro   0x00000000       0x10 ./output/main_full.o
- .debug_macro   0x00000000       0x52 ./output/main_full.o
- .debug_macro   0x00000000       0xd5 ./output/main_full.o
- .debug_macro   0x00000000       0x1c ./output/main_full.o
- .debug_macro   0x00000000       0x3d ./output/main_full.o
- .debug_macro   0x00000000       0x16 ./output/main_full.o
- .debug_macro   0x00000000      0x16f ./output/main_full.o
- .debug_macro   0x00000000       0x16 ./output/main_full.o
- .debug_macro   0x00000000       0x35 ./output/main_full.o
- .debug_macro   0x00000000      0x34e ./output/main_full.o
- .debug_macro   0x00000000       0x16 ./output/main_full.o
- .debug_macro   0x00000000      0x15f ./output/main_full.o
- .debug_macro   0x00000000       0x10 ./output/main_full.o
- .debug_macro   0x00000000      0x31d ./output/main_full.o
- .debug_macro   0x00000000       0x22 ./output/main_full.o
- .debug_macro   0x00000000       0x1c ./output/main_full.o
- .debug_macro   0x00000000       0x22 ./output/main_full.o
- .debug_macro   0x00000000       0xd6 ./output/main_full.o
- .debug_macro   0x00000000      0xe2d ./output/main_full.o
- .debug_macro   0x00000000      0x11f ./output/main_full.o
- .debug_macro   0x00000000      0x7b3 ./output/main_full.o
- .debug_macro   0x00000000      0x4a6 ./output/main_full.o
- .debug_macro   0x00000000       0x8a ./output/main_full.o
- .debug_macro   0x00000000       0x34 ./output/main_full.o
- .debug_macro   0x00000000       0x56 ./output/main_full.o
- .debug_macro   0x00000000       0x10 ./output/main_full.o
- .debug_macro   0x00000000       0x16 ./output/main_full.o
- .debug_macro   0x00000000       0x34 ./output/main_full.o
- .debug_macro   0x00000000      0x118 ./output/main_full.o
- .debug_macro   0x00000000       0x48 ./output/main_full.o
- .debug_macro   0x00000000      0x85a ./output/main_full.o
- .debug_macro   0x00000000       0x16 ./output/main_full.o
- .debug_macro   0x00000000       0x64 ./output/main_full.o
- .debug_macro   0x00000000       0x22 ./output/main_full.o
- .debug_macro   0x00000000       0x52 ./output/main_full.o
- .debug_macro   0x00000000       0x1f ./output/main_full.o
- .debug_macro   0x00000000       0x67 ./output/main_full.o
- .debug_macro   0x00000000       0x24 ./output/main_full.o
- .debug_macro   0x00000000       0x4c ./output/main_full.o
- .debug_macro   0x00000000       0x47 ./output/main_full.o
- .debug_macro   0x00000000       0x22 ./output/main_full.o
- .debug_macro   0x00000000       0x52 ./output/main_full.o
- .debug_macro   0x00000000       0x34 ./output/main_full.o
- .debug_macro   0x00000000       0x5f ./output/main_full.o
- .debug_macro   0x00000000       0x10 ./output/main_full.o
- .debug_macro   0x00000000       0x28 ./output/main_full.o
- .debug_macro   0x00000000       0x28 ./output/main_full.o
- .debug_macro   0x00000000       0x22 ./output/main_full.o
- .debug_macro   0x00000000       0x3a ./output/main_full.o
- .debug_macro   0x00000000       0x16 ./output/main_full.o
- .debug_macro   0x00000000       0x49 ./output/main_full.o
- .debug_macro   0x00000000       0xb3 ./output/main_full.o
- .debug_macro   0x00000000       0x2e ./output/main_full.o
- .debug_macro   0x00000000      0x182 ./output/main_full.o
- .debug_macro   0x00000000       0xe7 ./output/main_full.o
- .debug_macro   0x00000000       0x3a ./output/main_full.o
- .debug_macro   0x00000000       0x1f ./output/main_full.o
- .debug_macro   0x00000000       0x12 ./output/main_full.o
- .debug_macro   0x00000000      0xe88 ./output/main_full.o
- .debug_macro   0x00000000       0xc3 ./output/main_full.o
- .debug_macro   0x00000000      0x14f ./output/main_full.o
- .debug_macro   0x00000000       0x8e ./output/main_full.o
- .debug_macro   0x00000000       0xa8 ./output/main_full.o
- .debug_line    0x00000000      0xde9 ./output/main_full.o
- .debug_str     0x00000000    0x2bbe2 ./output/main_full.o
- .comment       0x00000000       0x4a ./output/main_full.o
- .debug_frame   0x00000000       0xa0 ./output/main_full.o
- .ARM.attributes
-                0x00000000       0x2d ./output/main_full.o
  .group         0x00000000        0xc ./output/startup_gcc.o
  .group         0x00000000        0xc ./output/startup_gcc.o
  .group         0x00000000        0xc ./output/startup_gcc.o
@@ -10650,7 +10438,6 @@ LOAD ./output/TaskNotifyArray.o
 LOAD ./output/TimerDemo.o
 LOAD ./output/main.o
 LOAD ./output/main_blinky.o
-LOAD ./output/main_full.o
 LOAD ./output/startup_gcc.o
 LOAD ./output/RegTest.o
 LOAD ./output/printf-stdarg.o
@@ -12586,7 +12373,7 @@ END GROUP
 OUTPUT(./output/RTOSDemo.out elf32-littlearm)
 LOAD linker stubs
 
-.debug_info     0x00000000    0x18d1a
+.debug_info     0x00000000    0x18d16
  .debug_info    0x00000000     0x490c ./output/tasks.o
  .debug_info    0x0000490c      0x2d3 ./output/list.o
  .debug_info    0x00004bdf     0x3296 ./output/queue.o
@@ -12595,32 +12382,32 @@ LOAD linker stubs
  .debug_info    0x0000a9b0      0x5aa ./output/port.o
  .debug_info    0x0000af5a     0x15c9 ./output/IntQueue.o
  .debug_info    0x0000c523      0x6e4 ./output/IntQueueTimer.o
- .debug_info    0x0000cc07      0x694 ./output/main.o
- .debug_info    0x0000d29b      0x4e6 ./output/main_blinky.o
- .debug_info    0x0000d781      0xa94 ./output/startup_gcc.o
- .debug_info    0x0000e215      0x678 ./output/printf-stdarg.o
- .debug_info    0x0000e88d      0x5b3 ./output/trcKernelPort.o
- .debug_info    0x0000ee40      0x5bd ./output/trcStreamPort.o
- .debug_info    0x0000f3fd      0x364 ./output/trcAssert.o
- .debug_info    0x0000f761      0x449 ./output/trcCounter.o
- .debug_info    0x0000fbaa      0x499 ./output/trcDiagnostics.o
- .debug_info    0x00010043      0xc6a ./output/trcEntryTable.o
- .debug_info    0x00010cad      0x3ec ./output/trcError.o
- .debug_info    0x00011099     0x26ba ./output/trcEvent.o
- .debug_info    0x00013753      0x85d ./output/trcEventBuffer.o
- .debug_info    0x00013fb0      0x3d7 ./output/trcExtension.o
- .debug_info    0x00014387      0x3c0 ./output/trcHeap.o
- .debug_info    0x00014747      0x821 ./output/trcISR.o
- .debug_info    0x00014f68      0x657 ./output/trcMultiCoreEventBuffer.o
- .debug_info    0x000155bf      0xe87 ./output/trcObject.o
- .debug_info    0x00016446      0x7b5 ./output/trcPrint.o
- .debug_info    0x00016bfb      0x229 ./output/trcStaticBuffer.o
- .debug_info    0x00016e24      0xf34 ./output/trcStreamingRecorder.o
- .debug_info    0x00017d58      0x243 ./output/trcString.o
- .debug_info    0x00017f9b      0x9ae ./output/trcTask.o
- .debug_info    0x00018949      0x3d1 ./output/trcTimestamp.o
+ .debug_info    0x0000cc07      0x690 ./output/main.o
+ .debug_info    0x0000d297      0x4e6 ./output/main_blinky.o
+ .debug_info    0x0000d77d      0xa94 ./output/startup_gcc.o
+ .debug_info    0x0000e211      0x678 ./output/printf-stdarg.o
+ .debug_info    0x0000e889      0x5b3 ./output/trcKernelPort.o
+ .debug_info    0x0000ee3c      0x5bd ./output/trcStreamPort.o
+ .debug_info    0x0000f3f9      0x364 ./output/trcAssert.o
+ .debug_info    0x0000f75d      0x449 ./output/trcCounter.o
+ .debug_info    0x0000fba6      0x499 ./output/trcDiagnostics.o
+ .debug_info    0x0001003f      0xc6a ./output/trcEntryTable.o
+ .debug_info    0x00010ca9      0x3ec ./output/trcError.o
+ .debug_info    0x00011095     0x26ba ./output/trcEvent.o
+ .debug_info    0x0001374f      0x85d ./output/trcEventBuffer.o
+ .debug_info    0x00013fac      0x3d7 ./output/trcExtension.o
+ .debug_info    0x00014383      0x3c0 ./output/trcHeap.o
+ .debug_info    0x00014743      0x821 ./output/trcISR.o
+ .debug_info    0x00014f64      0x657 ./output/trcMultiCoreEventBuffer.o
+ .debug_info    0x000155bb      0xe87 ./output/trcObject.o
+ .debug_info    0x00016442      0x7b5 ./output/trcPrint.o
+ .debug_info    0x00016bf7      0x229 ./output/trcStaticBuffer.o
+ .debug_info    0x00016e20      0xf34 ./output/trcStreamingRecorder.o
+ .debug_info    0x00017d54      0x243 ./output/trcString.o
+ .debug_info    0x00017f97      0x9ae ./output/trcTask.o
+ .debug_info    0x00018945      0x3d1 ./output/trcTimestamp.o
 
-.debug_abbrev   0x00000000     0x45e3
+.debug_abbrev   0x00000000     0x45f4
  .debug_abbrev  0x00000000      0x472 ./output/tasks.o
  .debug_abbrev  0x00000472      0x102 ./output/list.o
  .debug_abbrev  0x00000574      0x3c1 ./output/queue.o
@@ -12629,30 +12416,30 @@ LOAD linker stubs
  .debug_abbrev  0x0000107d      0x2a9 ./output/port.o
  .debug_abbrev  0x00001326      0x2b9 ./output/IntQueue.o
  .debug_abbrev  0x000015df      0x217 ./output/IntQueueTimer.o
- .debug_abbrev  0x000017f6      0x2a5 ./output/main.o
- .debug_abbrev  0x00001a9b      0x13d ./output/main_blinky.o
- .debug_abbrev  0x00001bd8      0x28c ./output/startup_gcc.o
- .debug_abbrev  0x00001e64      0x258 ./output/printf-stdarg.o
- .debug_abbrev  0x000020bc      0x214 ./output/trcKernelPort.o
- .debug_abbrev  0x000022d0      0x185 ./output/trcStreamPort.o
- .debug_abbrev  0x00002455      0x17d ./output/trcAssert.o
- .debug_abbrev  0x000025d2      0x140 ./output/trcCounter.o
- .debug_abbrev  0x00002712      0x19e ./output/trcDiagnostics.o
- .debug_abbrev  0x000028b0      0x2b2 ./output/trcEntryTable.o
- .debug_abbrev  0x00002b62      0x177 ./output/trcError.o
- .debug_abbrev  0x00002cd9      0x2fb ./output/trcEvent.o
- .debug_abbrev  0x00002fd4      0x21d ./output/trcEventBuffer.o
- .debug_abbrev  0x000031f1      0x137 ./output/trcExtension.o
- .debug_abbrev  0x00003328      0x103 ./output/trcHeap.o
- .debug_abbrev  0x0000342b      0x271 ./output/trcISR.o
- .debug_abbrev  0x0000369c      0x152 ./output/trcMultiCoreEventBuffer.o
- .debug_abbrev  0x000037ee      0x2a9 ./output/trcObject.o
- .debug_abbrev  0x00003a97      0x234 ./output/trcPrint.o
- .debug_abbrev  0x00003ccb      0x12f ./output/trcStaticBuffer.o
- .debug_abbrev  0x00003dfa      0x3b0 ./output/trcStreamingRecorder.o
- .debug_abbrev  0x000041aa      0x108 ./output/trcString.o
- .debug_abbrev  0x000042b2      0x239 ./output/trcTask.o
- .debug_abbrev  0x000044eb       0xf8 ./output/trcTimestamp.o
+ .debug_abbrev  0x000017f6      0x2b6 ./output/main.o
+ .debug_abbrev  0x00001aac      0x13d ./output/main_blinky.o
+ .debug_abbrev  0x00001be9      0x28c ./output/startup_gcc.o
+ .debug_abbrev  0x00001e75      0x258 ./output/printf-stdarg.o
+ .debug_abbrev  0x000020cd      0x214 ./output/trcKernelPort.o
+ .debug_abbrev  0x000022e1      0x185 ./output/trcStreamPort.o
+ .debug_abbrev  0x00002466      0x17d ./output/trcAssert.o
+ .debug_abbrev  0x000025e3      0x140 ./output/trcCounter.o
+ .debug_abbrev  0x00002723      0x19e ./output/trcDiagnostics.o
+ .debug_abbrev  0x000028c1      0x2b2 ./output/trcEntryTable.o
+ .debug_abbrev  0x00002b73      0x177 ./output/trcError.o
+ .debug_abbrev  0x00002cea      0x2fb ./output/trcEvent.o
+ .debug_abbrev  0x00002fe5      0x21d ./output/trcEventBuffer.o
+ .debug_abbrev  0x00003202      0x137 ./output/trcExtension.o
+ .debug_abbrev  0x00003339      0x103 ./output/trcHeap.o
+ .debug_abbrev  0x0000343c      0x271 ./output/trcISR.o
+ .debug_abbrev  0x000036ad      0x152 ./output/trcMultiCoreEventBuffer.o
+ .debug_abbrev  0x000037ff      0x2a9 ./output/trcObject.o
+ .debug_abbrev  0x00003aa8      0x234 ./output/trcPrint.o
+ .debug_abbrev  0x00003cdc      0x12f ./output/trcStaticBuffer.o
+ .debug_abbrev  0x00003e0b      0x3b0 ./output/trcStreamingRecorder.o
+ .debug_abbrev  0x000041bb      0x108 ./output/trcString.o
+ .debug_abbrev  0x000042c3      0x239 ./output/trcTask.o
+ .debug_abbrev  0x000044fc       0xf8 ./output/trcTimestamp.o
 
 .debug_loc      0x00000000     0xf154
  .debug_loc     0x00000000     0x311c ./output/tasks.o
@@ -12788,7 +12575,7 @@ LOAD linker stubs
  .debug_ranges  0x00001428       0x28 ./output/trcTask.o
  .debug_ranges  0x00001450       0x50 ./output/trcTimestamp.o
 
-.debug_macro    0x00000000     0xd08f
+.debug_macro    0x00000000     0xd089
  .debug_macro   0x00000000      0x4b8 ./output/tasks.o
  .debug_macro   0x000004b8      0xa60 ./output/tasks.o
  .debug_macro   0x00000f18       0x18 ./output/tasks.o
@@ -12875,34 +12662,34 @@ LOAD linker stubs
  .debug_macro   0x00007341      0x38a ./output/port.o
  .debug_macro   0x000076cb      0x422 ./output/IntQueue.o
  .debug_macro   0x00007aed      0x2ca ./output/IntQueueTimer.o
- .debug_macro   0x00007db7      0x47e ./output/main.o
- .debug_macro   0x00008235      0x47e ./output/main_blinky.o
- .debug_macro   0x000086b3       0x94 ./output/main_blinky.o
- .debug_macro   0x00008747      0x1a3 ./output/startup_gcc.o
- .debug_macro   0x000088ea       0x3e ./output/printf-stdarg.o
- .debug_macro   0x00008928      0x2e1 ./output/trcKernelPort.o
- .debug_macro   0x00008c09      0x2a2 ./output/trcStreamPort.o
- .debug_macro   0x00008eab      0xfe6 ./output/trcStreamPort.o
- .debug_macro   0x00009e91      0x2a8 ./output/trcAssert.o
- .debug_macro   0x0000a139      0x2a2 ./output/trcCounter.o
- .debug_macro   0x0000a3db      0x2a2 ./output/trcDiagnostics.o
- .debug_macro   0x0000a67d      0x395 ./output/trcEntryTable.o
- .debug_macro   0x0000aa12      0x2ae ./output/trcError.o
- .debug_macro   0x0000acc0      0x3fb ./output/trcEvent.o
- .debug_macro   0x0000b0bb      0x2a2 ./output/trcEventBuffer.o
- .debug_macro   0x0000b35d      0x2ae ./output/trcExtension.o
- .debug_macro   0x0000b60b      0x2a2 ./output/trcHeap.o
- .debug_macro   0x0000b8ad      0x2a2 ./output/trcISR.o
- .debug_macro   0x0000bb4f      0x2a2 ./output/trcMultiCoreEventBuffer.o
- .debug_macro   0x0000bdf1      0x2a2 ./output/trcObject.o
- .debug_macro   0x0000c093      0x2a2 ./output/trcPrint.o
- .debug_macro   0x0000c335      0x2a2 ./output/trcStaticBuffer.o
- .debug_macro   0x0000c5d7      0x2c6 ./output/trcStreamingRecorder.o
- .debug_macro   0x0000c89d      0x2a2 ./output/trcString.o
- .debug_macro   0x0000cb3f      0x2ae ./output/trcTask.o
- .debug_macro   0x0000cded      0x2a2 ./output/trcTimestamp.o
+ .debug_macro   0x00007db7      0x478 ./output/main.o
+ .debug_macro   0x0000822f      0x47e ./output/main_blinky.o
+ .debug_macro   0x000086ad       0x94 ./output/main_blinky.o
+ .debug_macro   0x00008741      0x1a3 ./output/startup_gcc.o
+ .debug_macro   0x000088e4       0x3e ./output/printf-stdarg.o
+ .debug_macro   0x00008922      0x2e1 ./output/trcKernelPort.o
+ .debug_macro   0x00008c03      0x2a2 ./output/trcStreamPort.o
+ .debug_macro   0x00008ea5      0xfe6 ./output/trcStreamPort.o
+ .debug_macro   0x00009e8b      0x2a8 ./output/trcAssert.o
+ .debug_macro   0x0000a133      0x2a2 ./output/trcCounter.o
+ .debug_macro   0x0000a3d5      0x2a2 ./output/trcDiagnostics.o
+ .debug_macro   0x0000a677      0x395 ./output/trcEntryTable.o
+ .debug_macro   0x0000aa0c      0x2ae ./output/trcError.o
+ .debug_macro   0x0000acba      0x3fb ./output/trcEvent.o
+ .debug_macro   0x0000b0b5      0x2a2 ./output/trcEventBuffer.o
+ .debug_macro   0x0000b357      0x2ae ./output/trcExtension.o
+ .debug_macro   0x0000b605      0x2a2 ./output/trcHeap.o
+ .debug_macro   0x0000b8a7      0x2a2 ./output/trcISR.o
+ .debug_macro   0x0000bb49      0x2a2 ./output/trcMultiCoreEventBuffer.o
+ .debug_macro   0x0000bdeb      0x2a2 ./output/trcObject.o
+ .debug_macro   0x0000c08d      0x2a2 ./output/trcPrint.o
+ .debug_macro   0x0000c32f      0x2a2 ./output/trcStaticBuffer.o
+ .debug_macro   0x0000c5d1      0x2c6 ./output/trcStreamingRecorder.o
+ .debug_macro   0x0000c897      0x2a2 ./output/trcString.o
+ .debug_macro   0x0000cb39      0x2ae ./output/trcTask.o
+ .debug_macro   0x0000cde7      0x2a2 ./output/trcTimestamp.o
 
-.debug_line     0x00000000    0x1c37c
+.debug_line     0x00000000    0x1c37a
  .debug_line    0x00000000     0x3d61 ./output/tasks.o
  .debug_line    0x00003d61      0xa0f ./output/list.o
  .debug_line    0x00004770     0x2ba1 ./output/queue.o
@@ -12911,32 +12698,32 @@ LOAD linker stubs
  .debug_line    0x0000985b      0xaa1 ./output/port.o
  .debug_line    0x0000a2fc     0x1393 ./output/IntQueue.o
  .debug_line    0x0000b68f      0x821 ./output/IntQueueTimer.o
- .debug_line    0x0000beb0      0xb69 ./output/main.o
- .debug_line    0x0000ca19      0xa0c ./output/main_blinky.o
- .debug_line    0x0000d425      0x3e3 ./output/startup_gcc.o
- .debug_line    0x0000d808      0x567 ./output/printf-stdarg.o
- .debug_line    0x0000dd6f      0x827 ./output/trcKernelPort.o
- .debug_line    0x0000e596      0x81e ./output/trcStreamPort.o
- .debug_line    0x0000edb4      0x8c5 ./output/trcAssert.o
- .debug_line    0x0000f679      0x979 ./output/trcCounter.o
- .debug_line    0x0000fff2      0xaff ./output/trcDiagnostics.o
- .debug_line    0x00010af1     0x1379 ./output/trcEntryTable.o
- .debug_line    0x00011e6a      0x9c1 ./output/trcError.o
- .debug_line    0x0001282b     0x1bb5 ./output/trcEvent.o
- .debug_line    0x000143e0     0x104b ./output/trcEventBuffer.o
- .debug_line    0x0001542b      0x966 ./output/trcExtension.o
- .debug_line    0x00015d91      0x829 ./output/trcHeap.o
- .debug_line    0x000165ba      0xc19 ./output/trcISR.o
- .debug_line    0x000171d3      0xaa1 ./output/trcMultiCoreEventBuffer.o
- .debug_line    0x00017c74      0xca1 ./output/trcObject.o
- .debug_line    0x00018915      0xb31 ./output/trcPrint.o
- .debug_line    0x00019446      0x7b5 ./output/trcStaticBuffer.o
- .debug_line    0x00019bfb      0xb47 ./output/trcStreamingRecorder.o
- .debug_line    0x0001a742      0x7b5 ./output/trcString.o
- .debug_line    0x0001aef7      0x8f9 ./output/trcTask.o
- .debug_line    0x0001b7f0      0xb8c ./output/trcTimestamp.o
+ .debug_line    0x0000beb0      0xb67 ./output/main.o
+ .debug_line    0x0000ca17      0xa0c ./output/main_blinky.o
+ .debug_line    0x0000d423      0x3e3 ./output/startup_gcc.o
+ .debug_line    0x0000d806      0x567 ./output/printf-stdarg.o
+ .debug_line    0x0000dd6d      0x827 ./output/trcKernelPort.o
+ .debug_line    0x0000e594      0x81e ./output/trcStreamPort.o
+ .debug_line    0x0000edb2      0x8c5 ./output/trcAssert.o
+ .debug_line    0x0000f677      0x979 ./output/trcCounter.o
+ .debug_line    0x0000fff0      0xaff ./output/trcDiagnostics.o
+ .debug_line    0x00010aef     0x1379 ./output/trcEntryTable.o
+ .debug_line    0x00011e68      0x9c1 ./output/trcError.o
+ .debug_line    0x00012829     0x1bb5 ./output/trcEvent.o
+ .debug_line    0x000143de     0x104b ./output/trcEventBuffer.o
+ .debug_line    0x00015429      0x966 ./output/trcExtension.o
+ .debug_line    0x00015d8f      0x829 ./output/trcHeap.o
+ .debug_line    0x000165b8      0xc19 ./output/trcISR.o
+ .debug_line    0x000171d1      0xaa1 ./output/trcMultiCoreEventBuffer.o
+ .debug_line    0x00017c72      0xca1 ./output/trcObject.o
+ .debug_line    0x00018913      0xb31 ./output/trcPrint.o
+ .debug_line    0x00019444      0x7b5 ./output/trcStaticBuffer.o
+ .debug_line    0x00019bf9      0xb47 ./output/trcStreamingRecorder.o
+ .debug_line    0x0001a740      0x7b5 ./output/trcString.o
+ .debug_line    0x0001aef5      0x8f9 ./output/trcTask.o
+ .debug_line    0x0001b7ee      0xb8c ./output/trcTimestamp.o
 
-.debug_str      0x00000000    0x346d5
+.debug_str      0x00000000    0x346b0
  .debug_str     0x00000000    0x2b2ef ./output/tasks.o
                               0x2b6e2 (size before relaxing)
  .debug_str     0x0002b2ef       0x52 ./output/list.o
@@ -12953,53 +12740,53 @@ LOAD linker stubs
                               0x2a0ad (size before relaxing)
  .debug_str     0x0002efb8      0x3d4 ./output/IntQueueTimer.o
                               0x24404 (size before relaxing)
- .debug_str     0x0002f38c     0x145f ./output/main.o
-                              0x2a1ac (size before relaxing)
- .debug_str     0x000307eb      0x25a ./output/main_blinky.o
+ .debug_str     0x0002f38c     0x143a ./output/main.o
+                              0x2a187 (size before relaxing)
+ .debug_str     0x000307c6      0x25a ./output/main_blinky.o
                               0x2b174 (size before relaxing)
- .debug_str     0x00030a45      0x41a ./output/startup_gcc.o
+ .debug_str     0x00030a20      0x41a ./output/startup_gcc.o
                                0x7bc7 (size before relaxing)
- .debug_str     0x00030e5f      0x115 ./output/printf-stdarg.o
+ .debug_str     0x00030e3a      0x115 ./output/printf-stdarg.o
                                0x2f54 (size before relaxing)
- .debug_str     0x00030f74      0x201 ./output/trcKernelPort.o
+ .debug_str     0x00030f4f      0x201 ./output/trcKernelPort.o
                               0x27523 (size before relaxing)
- .debug_str     0x00031175      0xaf6 ./output/trcStreamPort.o
+ .debug_str     0x00031150      0xaf6 ./output/trcStreamPort.o
                               0x24b6e (size before relaxing)
- .debug_str     0x00031c6b      0x24f ./output/trcAssert.o
+ .debug_str     0x00031c46      0x24f ./output/trcAssert.o
                               0x249df (size before relaxing)
- .debug_str     0x00031eba      0x106 ./output/trcCounter.o
+ .debug_str     0x00031e95      0x106 ./output/trcCounter.o
                               0x2493b (size before relaxing)
- .debug_str     0x00031fc0      0x15f ./output/trcDiagnostics.o
+ .debug_str     0x00031f9b      0x15f ./output/trcDiagnostics.o
                               0x24991 (size before relaxing)
- .debug_str     0x0003211f      0x489 ./output/trcEntryTable.o
+ .debug_str     0x000320fa      0x489 ./output/trcEntryTable.o
                               0x279da (size before relaxing)
- .debug_str     0x000325a8      0x1ac ./output/trcError.o
+ .debug_str     0x00032583      0x1ac ./output/trcError.o
                               0x24995 (size before relaxing)
- .debug_str     0x00032754      0xf3d ./output/trcEvent.o
+ .debug_str     0x0003272f      0xf3d ./output/trcEvent.o
                               0x28b23 (size before relaxing)
- .debug_str     0x00033691      0x1d7 ./output/trcEventBuffer.o
+ .debug_str     0x0003366c      0x1d7 ./output/trcEventBuffer.o
                               0x2498d (size before relaxing)
- .debug_str     0x00033868      0x261 ./output/trcExtension.o
+ .debug_str     0x00033843      0x261 ./output/trcExtension.o
                               0x24a59 (size before relaxing)
- .debug_str     0x00033ac9       0x79 ./output/trcHeap.o
+ .debug_str     0x00033aa4       0x79 ./output/trcHeap.o
                               0x2483f (size before relaxing)
- .debug_str     0x00033b42      0x16f ./output/trcISR.o
+ .debug_str     0x00033b1d      0x16f ./output/trcISR.o
                               0x24a54 (size before relaxing)
- .debug_str     0x00033cb1      0x102 ./output/trcMultiCoreEventBuffer.o
+ .debug_str     0x00033c8c      0x102 ./output/trcMultiCoreEventBuffer.o
                               0x24a3b (size before relaxing)
- .debug_str     0x00033db3      0x15c ./output/trcObject.o
+ .debug_str     0x00033d8e      0x15c ./output/trcObject.o
                               0x24ac4 (size before relaxing)
- .debug_str     0x00033f0f      0x105 ./output/trcPrint.o
+ .debug_str     0x00033eea      0x105 ./output/trcPrint.o
                               0x24a02 (size before relaxing)
- .debug_str     0x00034014       0xb6 ./output/trcStaticBuffer.o
+ .debug_str     0x00033fef       0xb6 ./output/trcStaticBuffer.o
                               0x24851 (size before relaxing)
- .debug_str     0x000340ca      0x408 ./output/trcStreamingRecorder.o
+ .debug_str     0x000340a5      0x408 ./output/trcStreamingRecorder.o
                               0x2536d (size before relaxing)
- .debug_str     0x000344d2       0x72 ./output/trcString.o
+ .debug_str     0x000344ad       0x72 ./output/trcString.o
                               0x24803 (size before relaxing)
- .debug_str     0x00034544       0xca ./output/trcTask.o
+ .debug_str     0x0003451f       0xca ./output/trcTask.o
                               0x24eb6 (size before relaxing)
- .debug_str     0x0003460e       0xc7 ./output/trcTimestamp.o
+ .debug_str     0x000345e9       0xc7 ./output/trcTimestamp.o
                               0x24929 (size before relaxing)
 
 .comment        0x00000000       0x49

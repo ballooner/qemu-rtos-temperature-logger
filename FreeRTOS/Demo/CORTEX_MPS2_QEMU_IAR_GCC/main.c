@@ -71,7 +71,6 @@
  * If mainCREATE_SIMPLE_BLINKY_DEMO_ONLY is not 1 then the comprehensive test and
  * demo application will be built.  The comprehensive test and demo application is
  * implemented and described in main_full.c. */
-#define mainCREATE_SIMPLE_BLINKY_DEMO_ONLY    1
 
 /* printf() output uses the UART.  These constants define the addresses of the
  * required UART registers. */
@@ -87,14 +86,14 @@
  * main_full() is used when mainCREATE_SIMPLE_BLINKY_DEMO_ONLY is set to 0.
  */
 extern void main_blinky( void );
-extern void main_full( void );
 
 /*
  * Only the comprehensive demo uses application hook (callback) functions.  See
  * https://www.FreeRTOS.org/a00016.html for more information.
- */
+ 
 void vFullDemoTickHookFunction( void );
 void vFullDemoIdleFunction( void );
+*/
 
 /*
  * Printf() output is sent to the serial port.  Initialise the serial hardware.
@@ -132,15 +131,7 @@ int main( void )
 
     /* The mainCREATE_SIMPLE_BLINKY_DEMO_ONLY setting is described at the top
      * of this file. */
-    #if ( mainCREATE_SIMPLE_BLINKY_DEMO_ONLY == 1 )
-    {
-        main_blinky();
-    }
-    #else
-    {
-        main_full();
-    }
-    #endif
+    main_blinky();
     return 0;
 }
 /*-----------------------------------------------------------*/
@@ -209,11 +200,13 @@ void vApplicationTickHook( void )
     * code must not attempt to block, and only the interrupt safe FreeRTOS API
     * functions can be used (those that end in FromISR()). */
 
+    /*
     #if ( mainCREATE_SIMPLE_BLINKY_DEMO_ONLY != 1 )
     {
         vFullDemoTickHookFunction();
     }
-    #endif /* mainCREATE_SIMPLE_BLINKY_DEMO_ONLY */
+    #endif  mainCREATE_SIMPLE_BLINKY_DEMO_ONLY 
+    */
 }
 /*-----------------------------------------------------------*/
 
