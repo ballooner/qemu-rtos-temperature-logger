@@ -103,10 +103,8 @@ static QueueHandle_t xQueue = NULL;
 /* A software timer that is started from the tick hook. */
 static TimerHandle_t xTimer = NULL;
 
-/*-----------------------------------------------------------*/
 
-/*** SEE THE COMMENTS AT THE TOP OF THIS FILE ***/
-void main_blinky( void )
+void temp_logger( void )
 {
     const TickType_t xTimerPeriod = mainTIMER_SEND_FREQUENCY_MS;
 

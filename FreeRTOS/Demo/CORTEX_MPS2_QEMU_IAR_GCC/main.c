@@ -85,7 +85,7 @@
  * main_blinky() is used when mainCREATE_SIMPLE_BLINKY_DEMO_ONLY is set to 1.
  * main_full() is used when mainCREATE_SIMPLE_BLINKY_DEMO_ONLY is set to 0.
  */
-extern void main_blinky( void );
+extern void temp_logger( void );
 
 /*
  * Only the comprehensive demo uses application hook (callback) functions.  See
@@ -131,7 +131,7 @@ int main( void )
 
     /* The mainCREATE_SIMPLE_BLINKY_DEMO_ONLY setting is described at the top
      * of this file. */
-    main_blinky();
+    temp_logger();
     return 0;
 }
 /*-----------------------------------------------------------*/

@@ -6694,178 +6694,178 @@ Discarded input sections
  .debug_macro   0x00000000       0x16 ./output/main.o
  .debug_macro   0x00000000      0x16f ./output/main.o
  .debug_macro   0x00000000       0x16 ./output/main.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .group         0x00000000        0xc ./output/main_blinky.o
- .text          0x00000000        0x0 ./output/main_blinky.o
- .data          0x00000000        0x0 ./output/main_blinky.o
- .bss           0x00000000        0x0 ./output/main_blinky.o
- .debug_macro   0x00000000      0xa60 ./output/main_blinky.o
- .debug_macro   0x00000000       0x22 ./output/main_blinky.o
- .debug_macro   0x00000000       0x5e ./output/main_blinky.o
- .debug_macro   0x00000000       0x18 ./output/main_blinky.o
- .debug_macro   0x00000000       0x94 ./output/main_blinky.o
- .debug_macro   0x00000000       0x35 ./output/main_blinky.o
- .debug_macro   0x00000000       0x34 ./output/main_blinky.o
- .debug_macro   0x00000000       0x16 ./output/main_blinky.o
- .debug_macro   0x00000000       0x57 ./output/main_blinky.o
- .debug_macro   0x00000000       0x97 ./output/main_blinky.o
- .debug_macro   0x00000000      0x341 ./output/main_blinky.o
- .debug_macro   0x00000000       0xfd ./output/main_blinky.o
- .debug_macro   0x00000000       0x10 ./output/main_blinky.o
- .debug_macro   0x00000000       0x16 ./output/main_blinky.o
- .debug_macro   0x00000000       0x43 ./output/main_blinky.o
- .debug_macro   0x00000000       0x34 ./output/main_blinky.o
- .debug_macro   0x00000000       0x10 ./output/main_blinky.o
- .debug_macro   0x00000000       0x58 ./output/main_blinky.o
- .debug_macro   0x00000000      0x182 ./output/main_blinky.o
- .debug_macro   0x00000000       0x10 ./output/main_blinky.o
- .debug_macro   0x00000000       0x6a ./output/main_blinky.o
- .debug_macro   0x00000000       0x1c ./output/main_blinky.o
- .debug_macro   0x00000000       0x52 ./output/main_blinky.o
- .debug_macro   0x00000000       0x22 ./output/main_blinky.o
- .debug_macro   0x00000000       0x10 ./output/main_blinky.o
- .debug_macro   0x00000000       0x52 ./output/main_blinky.o
- .debug_macro   0x00000000       0xd5 ./output/main_blinky.o
- .debug_macro   0x00000000       0x1c ./output/main_blinky.o
- .debug_macro   0x00000000       0x3d ./output/main_blinky.o
- .debug_macro   0x00000000       0x16 ./output/main_blinky.o
- .debug_macro   0x00000000      0x16f ./output/main_blinky.o
- .debug_macro   0x00000000      0x34e ./output/main_blinky.o
- .debug_macro   0x00000000       0x16 ./output/main_blinky.o
- .debug_macro   0x00000000      0x15f ./output/main_blinky.o
- .debug_macro   0x00000000       0x10 ./output/main_blinky.o
- .debug_macro   0x00000000      0x31d ./output/main_blinky.o
- .debug_macro   0x00000000       0x22 ./output/main_blinky.o
- .debug_macro   0x00000000       0x1c ./output/main_blinky.o
- .debug_macro   0x00000000       0x22 ./output/main_blinky.o
- .debug_macro   0x00000000       0xd6 ./output/main_blinky.o
- .debug_macro   0x00000000      0xe2d ./output/main_blinky.o
- .debug_macro   0x00000000      0x11f ./output/main_blinky.o
- .debug_macro   0x00000000      0x7b3 ./output/main_blinky.o
- .debug_macro   0x00000000      0x4a6 ./output/main_blinky.o
- .debug_macro   0x00000000       0x8a ./output/main_blinky.o
- .debug_macro   0x00000000       0x34 ./output/main_blinky.o
- .debug_macro   0x00000000       0x56 ./output/main_blinky.o
- .debug_macro   0x00000000       0x10 ./output/main_blinky.o
- .debug_macro   0x00000000       0x16 ./output/main_blinky.o
- .debug_macro   0x00000000       0x34 ./output/main_blinky.o
- .debug_macro   0x00000000      0x118 ./output/main_blinky.o
- .debug_macro   0x00000000       0x48 ./output/main_blinky.o
- .debug_macro   0x00000000      0x85a ./output/main_blinky.o
- .debug_macro   0x00000000       0x16 ./output/main_blinky.o
- .debug_macro   0x00000000       0x64 ./output/main_blinky.o
- .debug_macro   0x00000000       0x22 ./output/main_blinky.o
- .debug_macro   0x00000000       0x52 ./output/main_blinky.o
- .debug_macro   0x00000000       0x1f ./output/main_blinky.o
- .debug_macro   0x00000000       0x67 ./output/main_blinky.o
- .debug_macro   0x00000000       0x24 ./output/main_blinky.o
- .debug_macro   0x00000000       0x4c ./output/main_blinky.o
- .debug_macro   0x00000000       0x47 ./output/main_blinky.o
- .debug_macro   0x00000000       0x22 ./output/main_blinky.o
- .debug_macro   0x00000000       0x52 ./output/main_blinky.o
- .debug_macro   0x00000000       0x34 ./output/main_blinky.o
- .debug_macro   0x00000000       0x5f ./output/main_blinky.o
- .debug_macro   0x00000000       0x10 ./output/main_blinky.o
- .debug_macro   0x00000000       0x28 ./output/main_blinky.o
- .debug_macro   0x00000000       0x28 ./output/main_blinky.o
- .debug_macro   0x00000000       0x22 ./output/main_blinky.o
- .debug_macro   0x00000000       0x3a ./output/main_blinky.o
- .debug_macro   0x00000000       0x16 ./output/main_blinky.o
- .debug_macro   0x00000000       0x49 ./output/main_blinky.o
- .debug_macro   0x00000000       0xb3 ./output/main_blinky.o
- .debug_macro   0x00000000       0x2e ./output/main_blinky.o
- .debug_macro   0x00000000      0x182 ./output/main_blinky.o
- .debug_macro   0x00000000       0xe7 ./output/main_blinky.o
- .debug_macro   0x00000000       0x3a ./output/main_blinky.o
- .debug_macro   0x00000000       0x1f ./output/main_blinky.o
- .debug_macro   0x00000000       0x12 ./output/main_blinky.o
- .debug_macro   0x00000000      0xe88 ./output/main_blinky.o
- .debug_macro   0x00000000       0xc3 ./output/main_blinky.o
- .debug_macro   0x00000000      0x14f ./output/main_blinky.o
- .debug_macro   0x00000000       0x98 ./output/main_blinky.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .group         0x00000000        0xc ./output/temp_logger.o
+ .text          0x00000000        0x0 ./output/temp_logger.o
+ .data          0x00000000        0x0 ./output/temp_logger.o
+ .bss           0x00000000        0x0 ./output/temp_logger.o
+ .debug_macro   0x00000000      0xa60 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x22 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x5e ./output/temp_logger.o
+ .debug_macro   0x00000000       0x18 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x94 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x35 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x34 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x16 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x57 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x97 ./output/temp_logger.o
+ .debug_macro   0x00000000      0x341 ./output/temp_logger.o
+ .debug_macro   0x00000000       0xfd ./output/temp_logger.o
+ .debug_macro   0x00000000       0x10 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x16 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x43 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x34 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x10 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x58 ./output/temp_logger.o
+ .debug_macro   0x00000000      0x182 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x10 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x6a ./output/temp_logger.o
+ .debug_macro   0x00000000       0x1c ./output/temp_logger.o
+ .debug_macro   0x00000000       0x52 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x22 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x10 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x52 ./output/temp_logger.o
+ .debug_macro   0x00000000       0xd5 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x1c ./output/temp_logger.o
+ .debug_macro   0x00000000       0x3d ./output/temp_logger.o
+ .debug_macro   0x00000000       0x16 ./output/temp_logger.o
+ .debug_macro   0x00000000      0x16f ./output/temp_logger.o
+ .debug_macro   0x00000000      0x34e ./output/temp_logger.o
+ .debug_macro   0x00000000       0x16 ./output/temp_logger.o
+ .debug_macro   0x00000000      0x15f ./output/temp_logger.o
+ .debug_macro   0x00000000       0x10 ./output/temp_logger.o
+ .debug_macro   0x00000000      0x31d ./output/temp_logger.o
+ .debug_macro   0x00000000       0x22 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x1c ./output/temp_logger.o
+ .debug_macro   0x00000000       0x22 ./output/temp_logger.o
+ .debug_macro   0x00000000       0xd6 ./output/temp_logger.o
+ .debug_macro   0x00000000      0xe2d ./output/temp_logger.o
+ .debug_macro   0x00000000      0x11f ./output/temp_logger.o
+ .debug_macro   0x00000000      0x7b3 ./output/temp_logger.o
+ .debug_macro   0x00000000      0x4a6 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x8a ./output/temp_logger.o
+ .debug_macro   0x00000000       0x34 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x56 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x10 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x16 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x34 ./output/temp_logger.o
+ .debug_macro   0x00000000      0x118 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x48 ./output/temp_logger.o
+ .debug_macro   0x00000000      0x85a ./output/temp_logger.o
+ .debug_macro   0x00000000       0x16 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x64 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x22 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x52 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x1f ./output/temp_logger.o
+ .debug_macro   0x00000000       0x67 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x24 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x4c ./output/temp_logger.o
+ .debug_macro   0x00000000       0x47 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x22 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x52 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x34 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x5f ./output/temp_logger.o
+ .debug_macro   0x00000000       0x10 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x28 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x28 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x22 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x3a ./output/temp_logger.o
+ .debug_macro   0x00000000       0x16 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x49 ./output/temp_logger.o
+ .debug_macro   0x00000000       0xb3 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x2e ./output/temp_logger.o
+ .debug_macro   0x00000000      0x182 ./output/temp_logger.o
+ .debug_macro   0x00000000       0xe7 ./output/temp_logger.o
+ .debug_macro   0x00000000       0x3a ./output/temp_logger.o
+ .debug_macro   0x00000000       0x1f ./output/temp_logger.o
+ .debug_macro   0x00000000       0x12 ./output/temp_logger.o
+ .debug_macro   0x00000000      0xe88 ./output/temp_logger.o
+ .debug_macro   0x00000000       0xc3 ./output/temp_logger.o
+ .debug_macro   0x00000000      0x14f ./output/temp_logger.o
+ .debug_macro   0x00000000       0x98 ./output/temp_logger.o
  .group         0x00000000        0xc ./output/startup_gcc.o
  .group         0x00000000        0xc ./output/startup_gcc.o
  .group         0x00000000        0xc ./output/startup_gcc.o
@@ -10437,7 +10437,7 @@ LOAD ./output/TaskNotify.o
 LOAD ./output/TaskNotifyArray.o
 LOAD ./output/TimerDemo.o
 LOAD ./output/main.o
-LOAD ./output/main_blinky.o
+LOAD ./output/temp_logger.o
 LOAD ./output/startup_gcc.o
 LOAD ./output/RegTest.o
 LOAD ./output/printf-stdarg.o
@@ -10524,9 +10524,9 @@ END GROUP
  .rodata.vAssertCalled.str1.1
                 0x00000171       0x1b ./output/main.o
  .rodata.prvQueueReceiveTask.str1.1
-                0x0000018c       0xb0 ./output/main_blinky.o
- .rodata.main_blinky.str1.1
-                0x0000023c       0x19 ./output/main_blinky.o
+                0x0000018c       0xb0 ./output/temp_logger.o
+ .rodata.temp_logger.str1.1
+                0x0000023c       0x19 ./output/temp_logger.o
  .rodata.prvGetRegistersFromStack.str1.1
                 0x00000255       0x36 ./output/startup_gcc.o
  .rodata.tiny_print.str1.1
@@ -11082,23 +11082,23 @@ END GROUP
 .text.prvQueueSendTimerCallback
                 0x00003090       0x20
  .text.prvQueueSendTimerCallback
-                0x00003090       0x20 ./output/main_blinky.o
+                0x00003090       0x20 ./output/temp_logger.o
 
 .text.prvQueueSendTask
                 0x000030b0       0x28
  .text.prvQueueSendTask
-                0x000030b0       0x28 ./output/main_blinky.o
+                0x000030b0       0x28 ./output/temp_logger.o
 
 .text.prvQueueReceiveTask
                 0x000030d8       0x6c
  .text.prvQueueReceiveTask
-                0x000030d8       0x6c ./output/main_blinky.o
+                0x000030d8       0x6c ./output/temp_logger.o
 
-.text.main_blinky
+.text.temp_logger
                 0x00003144       0x8c
- .text.main_blinky
-                0x00003144       0x8c ./output/main_blinky.o
-                0x00003144                main_blinky
+ .text.temp_logger
+                0x00003144       0x8c ./output/temp_logger.o
+                0x00003144                temp_logger
 
 .text.Default_Handler
                 0x00003200        0xc
@@ -12164,7 +12164,7 @@ END GROUP
                 0x20019c20       0x64 ./output/main.o
 
 .bss.xQueue     0x20019c84        0x4
- .bss.xQueue    0x20019c84        0x4 ./output/main_blinky.o
+ .bss.xQueue    0x20019c84        0x4 ./output/temp_logger.o
 
 .bss.lr         0x20019c88        0x4
  .bss.lr        0x20019c88        0x4 ./output/startup_gcc.o
@@ -12383,7 +12383,7 @@ LOAD linker stubs
  .debug_info    0x0000af5a     0x15c9 ./output/IntQueue.o
  .debug_info    0x0000c523      0x6e4 ./output/IntQueueTimer.o
  .debug_info    0x0000cc07      0x690 ./output/main.o
- .debug_info    0x0000d297      0x4e6 ./output/main_blinky.o
+ .debug_info    0x0000d297      0x4e6 ./output/temp_logger.o
  .debug_info    0x0000d77d      0xa94 ./output/startup_gcc.o
  .debug_info    0x0000e211      0x678 ./output/printf-stdarg.o
  .debug_info    0x0000e889      0x5b3 ./output/trcKernelPort.o
@@ -12417,7 +12417,7 @@ LOAD linker stubs
  .debug_abbrev  0x00001326      0x2b9 ./output/IntQueue.o
  .debug_abbrev  0x000015df      0x217 ./output/IntQueueTimer.o
  .debug_abbrev  0x000017f6      0x2b6 ./output/main.o
- .debug_abbrev  0x00001aac      0x13d ./output/main_blinky.o
+ .debug_abbrev  0x00001aac      0x13d ./output/temp_logger.o
  .debug_abbrev  0x00001be9      0x28c ./output/startup_gcc.o
  .debug_abbrev  0x00001e75      0x258 ./output/printf-stdarg.o
  .debug_abbrev  0x000020cd      0x214 ./output/trcKernelPort.o
@@ -12451,7 +12451,7 @@ LOAD linker stubs
  .debug_loc     0x00007604      0x70d ./output/IntQueue.o
  .debug_loc     0x00007d11       0xb0 ./output/IntQueueTimer.o
  .debug_loc     0x00007dc1      0x1a5 ./output/main.o
- .debug_loc     0x00007f66       0x6f ./output/main_blinky.o
+ .debug_loc     0x00007f66       0x6f ./output/temp_logger.o
  .debug_loc     0x00007fd5       0x25 ./output/startup_gcc.o
  .debug_loc     0x00007ffa      0xa75 ./output/printf-stdarg.o
  .debug_loc     0x00008a6f       0xd0 ./output/trcKernelPort.o
@@ -12495,7 +12495,7 @@ LOAD linker stubs
  .debug_aranges
                 0x00000688       0x68 ./output/main.o
  .debug_aranges
-                0x000006f0       0x38 ./output/main_blinky.o
+                0x000006f0       0x38 ./output/temp_logger.o
  .debug_aranges
                 0x00000728       0x38 ./output/startup_gcc.o
  .debug_aranges
@@ -12551,7 +12551,7 @@ LOAD linker stubs
  .debug_ranges  0x00000bb0       0xf0 ./output/IntQueue.o
  .debug_ranges  0x00000ca0       0x50 ./output/IntQueueTimer.o
  .debug_ranges  0x00000cf0       0x58 ./output/main.o
- .debug_ranges  0x00000d48       0x28 ./output/main_blinky.o
+ .debug_ranges  0x00000d48       0x28 ./output/temp_logger.o
  .debug_ranges  0x00000d70       0x28 ./output/startup_gcc.o
  .debug_ranges  0x00000d98       0x60 ./output/printf-stdarg.o
  .debug_ranges  0x00000df8       0x40 ./output/trcKernelPort.o
@@ -12663,8 +12663,8 @@ LOAD linker stubs
  .debug_macro   0x000076cb      0x422 ./output/IntQueue.o
  .debug_macro   0x00007aed      0x2ca ./output/IntQueueTimer.o
  .debug_macro   0x00007db7      0x478 ./output/main.o
- .debug_macro   0x0000822f      0x47e ./output/main_blinky.o
- .debug_macro   0x000086ad       0x94 ./output/main_blinky.o
+ .debug_macro   0x0000822f      0x47e ./output/temp_logger.o
+ .debug_macro   0x000086ad       0x94 ./output/temp_logger.o
  .debug_macro   0x00008741      0x1a3 ./output/startup_gcc.o
  .debug_macro   0x000088e4       0x3e ./output/printf-stdarg.o
  .debug_macro   0x00008922      0x2e1 ./output/trcKernelPort.o
@@ -12699,7 +12699,7 @@ LOAD linker stubs
  .debug_line    0x0000a2fc     0x1393 ./output/IntQueue.o
  .debug_line    0x0000b68f      0x821 ./output/IntQueueTimer.o
  .debug_line    0x0000beb0      0xb67 ./output/main.o
- .debug_line    0x0000ca17      0xa0c ./output/main_blinky.o
+ .debug_line    0x0000ca17      0xa0c ./output/temp_logger.o
  .debug_line    0x0000d423      0x3e3 ./output/startup_gcc.o
  .debug_line    0x0000d806      0x567 ./output/printf-stdarg.o
  .debug_line    0x0000dd6d      0x827 ./output/trcKernelPort.o
@@ -12742,7 +12742,7 @@ LOAD linker stubs
                               0x24404 (size before relaxing)
  .debug_str     0x0002f38c     0x143a ./output/main.o
                               0x2a187 (size before relaxing)
- .debug_str     0x000307c6      0x25a ./output/main_blinky.o
+ .debug_str     0x000307c6      0x25a ./output/temp_logger.o
                               0x2b174 (size before relaxing)
  .debug_str     0x00030a20      0x41a ./output/startup_gcc.o
                                0x7bc7 (size before relaxing)
@@ -12800,7 +12800,7 @@ LOAD linker stubs
  .comment       0x00000049       0x4a ./output/IntQueue.o
  .comment       0x00000049       0x4a ./output/IntQueueTimer.o
  .comment       0x00000049       0x4a ./output/main.o
- .comment       0x00000049       0x4a ./output/main_blinky.o
+ .comment       0x00000049       0x4a ./output/temp_logger.o
  .comment       0x00000049       0x4a ./output/startup_gcc.o
  .comment       0x00000049       0x4a ./output/printf-stdarg.o
  .comment       0x00000049       0x4a ./output/trcKernelPort.o
@@ -12845,7 +12845,7 @@ LOAD linker stubs
  .ARM.attributes
                 0x00000168       0x2d ./output/main.o
  .ARM.attributes
-                0x00000195       0x2d ./output/main_blinky.o
+                0x00000195       0x2d ./output/temp_logger.o
  .ARM.attributes
                 0x000001c2       0x2d ./output/startup_gcc.o
  .ARM.attributes
@@ -12945,7 +12945,7 @@ LOAD linker stubs
  .debug_frame   0x00001300      0x164 ./output/IntQueue.o
  .debug_frame   0x00001464       0x50 ./output/IntQueueTimer.o
  .debug_frame   0x000014b4       0xf8 ./output/main.o
- .debug_frame   0x000015ac       0x74 ./output/main_blinky.o
+ .debug_frame   0x000015ac       0x74 ./output/temp_logger.o
  .debug_frame   0x00001620       0x58 ./output/startup_gcc.o
  .debug_frame   0x00001678      0x130 ./output/printf-stdarg.o
  .debug_frame   0x000017a8       0xcc ./output/trcKernelPort.o
